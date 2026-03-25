@@ -30,9 +30,8 @@ Remote technical micro-services and quick repair solutions:
 • Script troubleshooting  
 • System debugging  
 
-Project link:  
-https://github.com/k0wcrows/QuickerFix-mTech
-
+Project:
+[QFix mTech](https://github.com/k0wcrows/QuickerFix-mTech)
 ---
 
 ## Technical Interests
