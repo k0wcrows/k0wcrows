@@ -1,13 +1,15 @@
 # k0wcrows
 
-Cybersecurity | Linux Infrastructure | Remote Technical Services
+Cybersecurity | Linux Infrastructure | Remote Technical Support
 
 ---
 
-## About Me
+## About Me the Universe we are ONE❕
+Once in a while it's happy vibration strong energy looking at ✨🌟🌟 Happy Birthday American!!🎉🎉
 
-I work on cybersecurity, Linux systems, and technical problem solving.  
-My focus is building practical tools, fixing real problems, and improving system reliability and security.
+learn CyberSecurity for Wireless, & build Linux systems focus solving embedded OS troubles on Circuit boards. 
+
+A focus on building practical tool (like a tiny linux box) for fixing hard to reach Network problems, and improving system reliability and security.
 
 Areas of interest:
 
