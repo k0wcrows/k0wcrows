@@ -23,7 +23,7 @@ Areas of interest:
 
 ## Featured Project
 
-### QuickerFix mTech
+### QFix mTech
 Remote technical micro-services and quick repair solutions:
 
 • Email recovery assistance  
