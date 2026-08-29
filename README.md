@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm k0wcrows
+# 👋 Mr. Magic k0wcrows
 ### 🛠️ QFix mTech Enthusiast | Developer | Creator
 
 ![Profile Views](https://img.shields.io/badge/Dynamic-Profile%20Views-blue?logo=github&url=https://komarev.com/ghpvc/?username=k0wcrows)
